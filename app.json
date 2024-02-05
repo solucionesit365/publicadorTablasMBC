@@ -1,0 +1,32 @@
+{
+  "id": "cfa7ad29-49fa-4047-8d71-e07854b5ec56",
+  "name": "PublicadorTablasMBC",
+  "publisher": "SolucionesIT",
+  "version": "22.0.2346.41249",
+  "brief": "",
+  "description": "Tabla, pagina API y pagina list de cdpDadesFichador",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
