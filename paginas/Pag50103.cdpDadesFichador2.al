@@ -58,6 +58,14 @@ page 50103 cdpDadesFichador2
                 {
                     Caption = 'usuari';
                 }
+                field(nombre; Rec.nombre)
+                {
+                    Caption = 'usuari';
+                }
+                field(dni; Rec.dni)
+                {
+                    Caption = 'usuari';
+                }
             }
         }
     }

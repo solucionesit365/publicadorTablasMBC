@@ -40,8 +40,14 @@ table 50103 cdpDadesFichador2
         {
             DataClassification = ToBeClassified;
         }
-
-
+        field(5010; nombre; Text[50])
+        {
+            DataClassification = ToBeClassified;
+        }
+        field(5011; dni; Text[50])
+        {
+            DataClassification = ToBeClassified;
+        }
 
 
     }

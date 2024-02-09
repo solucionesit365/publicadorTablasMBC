@@ -68,6 +68,14 @@ page 50104 cdpDadesFichador2List
                 {
                     ToolTip = 'Specifies the value of the usuari field.';
                 }
+                field(nombre; Rec.nombre)
+                {
+                    ToolTip = 'Specifies the value of the usuari field.';
+                }
+                field(dni; Rec.dni)
+                {
+                    ToolTip = 'Specifies the value of the usuari field.';
+                }
             }
         }
     }
