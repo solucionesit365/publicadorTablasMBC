@@ -1,10 +1,10 @@
 {
   "id": "cfa7ad29-49fa-4047-8d71-e07854b5ec56",
-  "name": "PublicadorTablasMBC",
+  "name": "365OBRADOR",
   "publisher": "SolucionesIT",
-  "version": "22.0.2405.41215",
+  "version": "22.0.2407.51536",
   "brief": "",
-  "description": "Tabla, pagina API y pagina list de cdpDadesFichador",
+  "description": "Tabla, pagina API y pagina list de BC",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -26,7 +26,5 @@
     "includeSourceInSymbolFile": true
   },
   "runtime": "10.0",
-  "features": [
-    "NoImplicitWith"
-  ]
+  "features": ["NoImplicitWith"]
 }
